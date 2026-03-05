@@ -29,3 +29,7 @@ The optimization model created in this project consists of three key components:
 After defining these components, the PuLP solver calculates the optimal solution automatically. The results of the model show the best production strategy and the maximum achievable profit under the given conditions. The output is displayed directly in the notebook, allowing users to interpret the results easily.
 
 Overall, the combination of Python, VS Code, Jupyter Notebook, and the PuLP optimization library provides a powerful environment for building and solving optimization problems. These tools are widely used in industries such as manufacturing, logistics, finance, and supply chain management to improve efficiency and support better decision-making. This project demonstrates how modern programming tools can be used to implement mathematical optimization models in a practical and user-friendly way.
+
+<img width="1581" height="216" alt="Image" src="https://github.com/user-attachments/assets/c9d3f37e-c670-4ad0-90c9-6f15a4037567" />
+<img width="1581" height="356" alt="Image" src="https://github.com/user-attachments/assets/d7d10308-e314-4684-bccf-4068c286d637" />
+<img width="1622" height="744" alt="Image" src="https://github.com/user-attachments/assets/c0fadaa9-f010-4b78-8e03-cfda431d4fd7" />
